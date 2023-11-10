@@ -15,7 +15,7 @@
 - <b>SQL</b>
   - [Reviewing Failed Login Attempts Using Filtering](https://github.com/AubrionneS/Reviewing-Failed-Login-Attempts-Using-Filtering-in-SQL)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Updating Access to Restricted Content Using Algorithms](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
 <h2> 📝📄  Certifications/Certificates:</h2>
 
