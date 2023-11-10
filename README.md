@@ -1,6 +1,6 @@
 <h1>Hello, I'm Aubrionne! ☺️👋🏽 
   
-  <br/><a href="https://www.linkedin.com/in/aubrionne-strong/" >Cybersecurity Professional</a>, <a >Information System Aficionado</a>, <a >Inquisitive Knowledge Seeker</a></h1>
+  <br/><a href="https://1drv.ms/b/s!AtUVmsXWeDsHiik3lv7BPLsNSlcs?e=BzzhA1" >Cybersecurity Professional</a>, <a >Information System Aficionado</a>, <a >Inquisitive Knowledge Seeker</a></h1>
 
 <h2> 👩🏽‍💻🔐  Cybersecurity Projects:</h2>
 
