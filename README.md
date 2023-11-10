@@ -5,7 +5,7 @@
 <h2> 👩🏽‍💻🔐  Cybersecurity Projects:</h2>
 
 - <b>Compliance, Audit and Risk Management</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Audits & Risk Assessments](https://github.com/AubrionneS/The-State-of-Alaska-DHSS-Audit-and-Risk-Assessment-Lab/blob/main/README.md)
 - <b>Governance</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Security Awareness</b>
