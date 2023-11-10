@@ -8,8 +8,6 @@
   - [Practicing Audits & Risk Assessments](https://github.com/AubrionneS/The-State-of-Alaska-DHSS-Audit-and-Risk-Assessment-Lab/blob/main/README.md)
 - <b>Governance</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Security Awareness</b>
-  - [Developing Training: Educating Audiences Regarding AWS S3 Buckets](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
 - <b>Linux</b>
   - [Changing File and Directory Permissions Using Kali Linux](https://github.com/AubrionneS/Updating-Colleague-File-Permissions/blob/main/README.md)
 - <b>SQL</b>
