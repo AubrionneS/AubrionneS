@@ -7,7 +7,7 @@
 - <b>Compliance, Audit and Risk Management</b>
   - [Practicing Audits & Risk Assessments](https://github.com/AubrionneS/The-State-of-Alaska-DHSS-Audit-and-Risk-Assessment-Lab/blob/main/README.md)
 - <b>Governance</b>
-  - [Creating an Information Security Policy for a Mid-Size Company](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i></b></i>
+  - [Creating an Information Security Policy for a Mid-Size Company](https://github.com/AubrionneS/Creating-an-Information-Security-Policy-for-a-Mid-Sized-EdTech-Company) <b><i></b></i>
 - <b>Linux</b>
   - [Changing File and Directory Permissions Using Kali Linux](https://github.com/AubrionneS/Updating-Colleague-File-Permissions/blob/main/README.md)
 - <b>SQL</b>
