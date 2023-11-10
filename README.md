@@ -24,8 +24,8 @@
  
 <h2> 📝📄  Certifications/Certificates:</h2>
 
- - [The Definitive GRC Analyst Masterclass](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Google Cybersecurity Specialization](https://github.com/joshmadakor1/Algorithms-Practice)
+ - [The Definitive GRC Analyst Masterclass](https://i.imgur.com/DI6cGp9.png)
+  - [Google Cybersecurity Specialization](https://i.imgur.com/r12VL7M.png)
 
 <h2> 🤳🏽 Connect with me:</h2>
 
